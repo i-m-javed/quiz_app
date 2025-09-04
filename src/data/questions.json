@@ -1,0 +1,162 @@
+[
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the capital of France?",
+    "correct_answer": "Paris",
+    "incorrect_answers": ["London", "Berlin", "Madrid"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Science",
+    "question": "Which planet is known as the Red Planet?",
+    "correct_answer": "Mars",
+    "incorrect_answers": ["Venus", "Jupiter", "Saturn"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Art",
+    "question": "Who painted the Mona Lisa?",
+    "correct_answer": "Leonardo da Vinci",
+    "incorrect_answers": ["Vincent van Gogh", "Pablo Picasso", "Michelangelo"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Geography",
+    "question": "What is the largest ocean on Earth?",
+    "correct_answer": "Pacific Ocean",
+    "incorrect_answers": ["Atlantic Ocean", "Indian Ocean", "Arctic Ocean"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "History",
+    "question": "In which year did World War II end?",
+    "correct_answer": "1945",
+    "incorrect_answers": ["1943", "1944", "1946"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science",
+    "question": "What is the chemical symbol for gold?",
+    "correct_answer": "Au",
+    "incorrect_answers": ["Go", "Gd", "Ag"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Technology",
+    "question": "Which programming language is known as the 'language of the web'?",
+    "correct_answer": "JavaScript",
+    "incorrect_answers": ["Python", "Java", "C++"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Mathematics",
+    "question": "What is the smallest prime number?",
+    "correct_answer": "2",
+    "incorrect_answers": ["0", "1", "3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Literature",
+    "question": "Who wrote 'Romeo and Juliet'?",
+    "correct_answer": "William Shakespeare",
+    "incorrect_answers": ["Charles Dickens", "Jane Austen", "Mark Twain"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Physics",
+    "question": "What is the speed of light in vacuum?",
+    "correct_answer": "299,792,458 m/s",
+    "incorrect_answers": ["300,000,000 m/s", "299,792,458 km/s", "186,282 miles/s"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Entertainment: Film",
+    "question": "Who directed the movie 'Inception'?",
+    "correct_answer": "Christopher Nolan",
+    "incorrect_answers": ["Steven Spielberg", "Martin Scorsese", "Quentin Tarantino"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Sports",
+    "question": "How many players are on a basketball team on the court at one time?",
+    "correct_answer": "5",
+    "incorrect_answers": ["4", "6", "7"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Biology",
+    "question": "What is the powerhouse of the cell?",
+    "correct_answer": "Mitochondria",
+    "incorrect_answers": ["Nucleus", "Ribosome", "Chloroplast"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Entertainment: Video Games",
+    "question": "Which souls game was not directed by Hidetaka Miyazaki?",
+    "correct_answer": "Dark Souls 2",
+    "incorrect_answers": ["Demon Souls", "Dark Souls", "Dark Souls 3"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "General Knowledge",
+    "question": "How many continents are there?",
+    "correct_answer": "7",
+    "incorrect_answers": ["5", "6", "8"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Science: Chemistry",
+    "question": "What is the atomic number of Carbon?",
+    "correct_answer": "6",
+    "incorrect_answers": ["4", "8", "12"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "History",
+    "question": "Who was the first Emperor of Rome?",
+    "correct_answer": "Augustus",
+    "incorrect_answers": ["Julius Caesar", "Nero", "Marcus Aurelius"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "easy",
+    "category": "Entertainment: Music",
+    "question": "How many strings does a standard guitar have?",
+    "correct_answer": "6",
+    "incorrect_answers": ["4", "5", "7"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "medium",
+    "category": "Geography",
+    "question": "What is the smallest country in the world?",
+    "correct_answer": "Vatican City",
+    "incorrect_answers": ["Monaco", "San Marino", "Liechtenstein"]
+  },
+  {
+    "type": "multiple",
+    "difficulty": "hard",
+    "category": "Science: Astronomy",
+    "question": "What is the largest moon of Saturn?",
+    "correct_answer": "Titan",
+    "incorrect_answers": ["Europa", "Ganymede", "Callisto"]
+  }
+]
