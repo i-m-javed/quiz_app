@@ -35,8 +35,8 @@ A modern, interactive quiz application built with React and Tailwind CSS. Test y
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/react-quiz-app.git
-cd react-quiz-app
+git clone https://github.com/i-m-javed/quiz_app.git
+cd quiz_app
 ```
 
 2. **Install dependencies**
@@ -95,10 +95,6 @@ npm run dev
 - Detailed answer review
 - Performance feedback
 
-### Deploy to Netlify
-
-1. Build the project
-2. Drag and drop the `dist` folder to Netlify
 
 ## 📞 Contact
 
@@ -106,6 +102,7 @@ Name - Mohammad Javed
 Email - ijavedofficial@gmail.com
 
 Project Link: [https://github.com/i-m-javed/quiz_app.git]
+Netlify link : [https://tp-quizapp.netlify.app]
 
 ---
 
